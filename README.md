@@ -1,1 +1,1 @@
-# master_thesis_IS-DS
+# Master Thesis : Information Studies - Data science
